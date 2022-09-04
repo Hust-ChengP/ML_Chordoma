@@ -1,5 +1,4 @@
-streamlit
-gcc7
-pandas
+streamlit==1.8.1
+pandas>1.0
 plotly==5.7.0
-pysurvival
+pysurvival==0.1.2
