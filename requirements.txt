@@ -1,3 +1,4 @@
+streamlit
 gcc7
 pandas
 plotly==5.7.0
