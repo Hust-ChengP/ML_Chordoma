@@ -16,7 +16,7 @@ def load_setting():
                     'type': 'selectbox', 'init_value': 3, 'add_after': ''},
         'Radiotherapy': {'values': ["No", "Yes"], 'type': 'selectbox', 'init_value': 0, 'add_after': ''},
         'Chemotherapy': {'values': ["No", "Yes"], 'type': 'selectbox', 'init_value': 0, 'add_after': ''},
-        'Tumor size': {'values': [0, 1000], 'type': 'slider', 'init_value': 135, 'add_after': ', mm'},
+        'Tumor size': {'values': [0, 300], 'type': 'slider', 'init_value': 50, 'add_after': ', mm'},
         'Tumor extension': {'values': ["No break in periosteum", "Extension beyond periosteum", "Further extension"],
                             'type': 'selectbox', 'init_value': 1, 'add_after': ''},
         'Distant metastasis': {'values': ["No", 'Yes'], 'type': 'selectbox',
