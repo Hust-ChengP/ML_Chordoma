@@ -3,3 +3,4 @@ pandas>1.0
 plotly==5.7.0
 pysurvival==0.1.2
 torch==1.13.1
+protobuf==3.20
